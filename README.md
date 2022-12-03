@@ -54,8 +54,8 @@
 <p> - Try pressing the each buttons in both feature cards that says "Meals" and "Deserts" respectively and make sure it goes to a different pages such as Meals and Deserts </p>
 <p> - Go to the "Footer Section"</p>
 <p> - Try pressing the each buttons of the Useful Link to go the the respective pages as stated in the Footer </p>
-<p>Try to submit the empty form and make sure that an error message about the required fields appears. </p>
-<p>Try to submit the form with an invalid email address and verify that a relevant error message appears </p>
+<p>- Try to submit the empty form and make sure that an error message about the required fields appears. </p>
+<p>- Try to submit the form with an invalid email address and verify that a relevant error message appears </p>
 
 <h3> Meals and Desert Order Buttons </h3>
 <p> - Go to "Meals" or "Deserts" page </p>
@@ -65,7 +65,7 @@
 <p> - Go to "Contact" or "Sign Up Page"</p>
 <p> - Try to use the map in the contact page to see the location and also try press "Log In" in the Sig Up page to make sure it goes to the home page </p>
 
-<p>This website works normally in desjtop version when used by the user while in mobile version some parts such the about us and footer will look squeazy when the screen is shrunk </p>
+<p>This website works normally in desktop version when used by the user while in mobile version some parts such the about us and footer will look squeazy when the screen is shrunk </p>
 
 
 <h1>Credits </h1>
