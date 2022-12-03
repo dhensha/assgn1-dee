@@ -6,5 +6,10 @@
 
 <h1>Design Process </h1>
 <p>This website is mainly for people who loves food and mostly the food vlogers around the world</p>
-<p>This website mainly achieves the purpose of sharing our very own way of selling food by using variety ingerdients and seasonings from the original recipe, so that customers will get astonished from the very own creative taste</p>
-<p>
+<p>This website achieves the purpose of sharing our very own way of selling food by using variety ingerdients and seasonings from the original recipe, so that customers will get astonished from the very own creative taste and making our buisness go viral and have the these buisness to grow and be a mulit-billionaire company </p>
+<p>This website is just the beginning of the journey for this buisness, where our website is viewed and shared through social media and having great reveiws after the service is done, in this way it will be easier to have the goal to be achieved as nothing social medias and websites and viral platforms used by many people around the world.</p>
+
+<p>User Story #1: </p>
+<p> As a user using this website, I want to have the most preferred food that I crave at the particular moment, so that I can have my cravings to statisfied</p>
+<p>User Story #2: </p>
+<p> 
