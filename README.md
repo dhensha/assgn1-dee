@@ -43,3 +43,19 @@
 <p> - HTML </p>
 <p> - CSS </p>
 <p> - Javascript </p>
+
+<h1> Testing </h1>
+<p> 
+
+<h1>Credits </h1>
+<h3> Content </h3>
+<p> - The text for all the website pages is by me, while for the Meals and Desert pages, some information is taken from Google </p>
+
+<h3> Media </h3>
+<p> The video from homepage is from YouTube > YouTube Link > https://youtu.be/xVVHZ_CJllg </p>
+<p> The picture from Homepage To SignUp page of from Unsplash and Pexels Website </p>
+<p> The fonts are from Google Fonts Website </p>
+<p> The icons are from Font Awesome website </p>
+
+<h3> Acknowledgements </h3>
+<p> I got inspiration for this project from a website food blog called Epicurious > Link to website > https://www.epicurious.com/ </p>
