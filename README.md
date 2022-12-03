@@ -26,6 +26,20 @@
 <p> Feature 2 > Header Video & Button > User can view the interactive video in the header and also click on the button provided to click for the user to direct them to a external link of a different website called Epicurious which is also a online food blog website, the user can have a interactive with the button as it has a interactive hover effect when clicked</p>
 <p> Feature 3 > About Us Page button > Same as the header session, it has a interactive hover effect when clicked which link to the website called Meals to check the food in that particular website </p>
 <p> Feature 4 > Feature Cards & Button > Is to allow user to view Meals and Deserts page with interest and use the button thats also have a interactive effect when hovered provided to go to the Meals and Deserts page </p>
-<p> Feature 5 > Footer Subscribe Form > Users can type in their email inside to subscribe to the website and when coreect email is not given they will have a pop up alert that shows that a correct email link should be give </p>
-<p>Feature 6 > Meals/Desert Page Order Buttons > Users can go bith these pages and view the food provided and click on the interactive button that changes colours when hovered over and click the button to go to the the contact page to order the food </p>
-<p>
+<p> Feature 5 > Footer Subscribe Form > Users can type in their email inside to subscribe to the website and when correct email is not given they will have a pop up alert that shows that a correct email link should be give </p>
+<p>Feature 6 > Meals/Desert Page Order Buttons > Users can go both these pages and view the food provided and click on the interactive button that changes colours when hovered over and click the button to go to the the contact page to order the food </p>
+<p> Feature 7 > Contact Form, Button, Map > Users can go to these page and fill up the form and also click submit with a hover effect that changes color of the button. The map will allow user to move around the locations and have user to see other places </p>
+<p> Feature 8 > Sign Up Page & Buttons > Users can sign up to these page and the button also have a hover effect that changes color when hovered and the Log In button can have users to go to the home page of the website </p>
+<p> Feature 9 > Logo Button > Users can press the logo button can have users to go to the homepage of the website </p>
+<p> Feature 9 > Navigation Responsive > When the navigation is on moble view it will change to a 3 line menu bar where when user press it can have a animation shown and also a dropdown menu with the different pages provided </p>
+
+<h3> Features Left to Implement </h3>
+
+<p> Another feature idea I had was to have a animation logo so that website can be more interactive for the users </p>
+<p> Also to have some background effects to the Meals and Dessert Page so that it would not look boring e.g. like when clicking on the product, it will have a animation effect to go to the contact page </p>
+<p> For the Contact and Sign Up page have animation effect as to three dots when waiting for the order to be processed and when it's done it will show a animated thumbs up when order or sign up is done </p>
+
+<h1> Technologies Used </h3>
+<p> - HTML </p>
+<p> - CSS </p>
+<p> - Javascript </p>
