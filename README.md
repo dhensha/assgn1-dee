@@ -12,4 +12,20 @@
 <p>User Story #1: </p>
 <p> As a user using this website, I want to have the most preferred food that I crave at the particular moment, so that I can have my cravings to statisfied</p>
 <p>User Story #2: </p>
-<p> 
+<p> As a user who do food vlogs in social media, I want to have food that aesthatically looking and also with a good amount of portion of food, so that not only it can satisfy my hunger but also have my social media updated and having my followers to see the company's amazing food design and view and also how the food taste like</p>
+<p>User Story #3: </p>
+<p>As a user who have a tired day at work and also ended late from work, I want to have food that can be deliverd fast and quickly without having to do the whole ordering process but with one single call, so that I can have the foof on time and also just do a simple process to order the food and having the great service with a great review given in the end. </p>
+
+<p> Wireframe Link: </p>
+<p> https://xd.adobe.com/view/721b2038-128c-4e1c-80ae-634ace54b744-2748/</p>
+
+<h1> Features </h1>
+
+<h3> Existing Features </h3>
+<p> Feature 1 > Navigation Bar - Is to allow users to direct them to different pages of the website by clicking on the navigation bar buttons given</p>
+<p> Feature 2 > Header Video & Button > User can view the interactive video in the header and also click on the button provided to click for the user to direct them to a external link of a different website called Epicurious which is also a online food blog website, the user can have a interactive with the button as it has a interactive hover effect when clicked</p>
+<p> Feature 3 > About Us Page button > Same as the header session, it has a interactive hover effect when clicked which link to the website called Meals to check the food in that particular website </p>
+<p> Feature 4 > Feature Cards & Button > Is to allow user to view Meals and Deserts page with interest and use the button thats also have a interactive effect when hovered provided to go to the Meals and Deserts page </p>
+<p> Feature 5 > Footer Subscribe Form > Users can type in their email inside to subscribe to the website and when coreect email is not given they will have a pop up alert that shows that a correct email link should be give </p>
+<p>Feature 6 > Meals/Desert Page Order Buttons > Users can go bith these pages and view the food provided and click on the interactive button that changes colours when hovered over and click the button to go to the the contact page to order the food </p>
+<p>
